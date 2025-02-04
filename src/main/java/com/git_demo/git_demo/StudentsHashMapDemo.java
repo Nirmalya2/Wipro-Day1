@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class StudentHashMapDemo {
+public class StudentsHashMapDemo {
     public static void main(String[] args) {
         // Create a HashMap to store student roll numbers and names
         HashMap<Integer, String> students = new HashMap<>();
